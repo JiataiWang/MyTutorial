@@ -1,0 +1,4 @@
+The repository for /wangjiatai/weight/Baichuan2-13B-Chat contains custom code which must be executed to correctlyload the model. You can inspect the repository content at https://hf.co//wangjiatai/weight/Baichuan2-13B-Chat.
+You can avoid this prompt in future by passing the argument `trust_remote_code=True`.
+
+Do you wish to run the custom code? [y/N] 
